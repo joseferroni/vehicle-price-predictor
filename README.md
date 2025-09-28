@@ -2,7 +2,7 @@
 Modelo para estimar precio de vehículos
 # Proyecto: Regresión de Automóviles
 
-Este repositorio acompaña al notebook `regresionautos_2`  y documenta el proceso completo de análisis de datos y modelado por regresión aplicado a un conjunto de datos de automóviles. El objetivo es construir un modelo predictivo capaz de estimar el precio de un vehículo a partir de sus características (año, kilometraje, marca, modelo, potencia, etc.) y ponerlo a disposición mediante una interfaz web con Streamlit.
+Este repositorio acompaña al notebook `regresionautos_2`  y documenta el proceso completo de análisis de datos y modelado por regresión aplicado a un conjunto de datos de automóviles fuente dato : https://www.kaggle.com/datasets/metawave/vehicle-price-prediction. El objetivo es construir un modelo predictivo capaz de estimar el precio de un vehículo a partir de sus características (año, kilometraje, marca, modelo, potencia, etc.) y ponerlo a disposición mediante una interfaz web con Streamlit.
 
 ## Contenido del Notebook
 
