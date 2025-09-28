@@ -18,11 +18,13 @@ El notebook realiza las siguientes tareas:
 
 ## Aplicación con Streamlit
 
-Los últimos tres archivos generados por el notebook están diseñados para ser usados en el script `concesionaria.py`, que implementa una interfaz web con Streamlit. Este script:
+Los últimos cuatro archivos generados por el notebook están diseñados para ser usados en el script `concesionaria.py`, que implementa una interfaz web con Streamlit. Este script:
 
 - Carga el modelo entrenado y los preprocesadores.
 - Recibe entradas del usuario (marca, año, km, etc.).
 - Devuelve una predicción del precio del vehículo.
+
+Los archivos generados, neceasrios para la interfaz son : brand_marca.csv , vars_cat.csv, X_train_cols.csv, modelo_entrenado.pkl
 
 Para ejecutar la app:
 
