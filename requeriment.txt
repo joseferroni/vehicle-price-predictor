@@ -1,0 +1,11 @@
+pandas
+numpy
+pathlib
+seaborn
+matplotlib
+scikit-learn
+statsmodels
+xgboost
+joblib
+streamlit
+tabulate
